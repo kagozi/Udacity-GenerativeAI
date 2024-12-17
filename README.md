@@ -28,6 +28,10 @@ $ python3 -m venv .venv
 $ source ./.venv/bin/activate
 ```
 
+```windows
+$ .venv\Scripts\activate
+```
+
 ### Requirements
 
 ```bash
